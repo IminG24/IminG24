@@ -7,17 +7,17 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on medical image data projects.
-- 🌱 I’m currently learning image-processing models
+- 🌱 I’m currently a Master's student working as a researcher in the image processing lab
 - 👯 I’m looking to collaborate on any work related to image data
 - 🤔 I’m looking for help with collaboration to work and learn together
-- 💬 Ask me about web development as I had 3 years work experience as web developer
+- 💬 Ask me about web development as I had 3 years of work experience as a web developer
 - 📫 How to reach me: imingg24@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: traveler, binge-watching dramas, active ambivert
 
 ### Languages
 
-[![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)]
-[![Python](https://img.shields.io/badge/-Python-000?&logo=Python)]
-[![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)]
-[![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP&logoColor=007396)]
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP&logoColor=007396)
