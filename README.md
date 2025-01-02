@@ -34,10 +34,3 @@
 ![](https://img.shields.io/badge/-Pimcore-000?&logo=Pimcore)
 ![](https://img.shields.io/badge/-Uikit-000?&logo=Uikit)
 
-
-<p align="center"> 
-  Visitor count<br>
-  <a href="">
-    <img src="https://profile-counter.glitch.me/iming24/count.svg" />
-  </a>
-</p>
