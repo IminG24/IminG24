@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate on any work related to developing websites and image processing.
 - 🤔 I’m looking for help with collaboration to work and learn together.
 - 💬 Ask me about web development as I had 3 years of work experience as a web developer
-- 📫 How to reach me: priyards24@gmail.com
+- 📫 How to reach me: priyaintoai@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: traveler, binge-watching dramas, active ambivert
 
